@@ -1,6 +1,6 @@
-# Dashchan Extension: ponychan
+# Dashchan Extension: konfach
 
-Extension for ponychan.net.
+Extension for konfa.ch.
 
 ## License
 
