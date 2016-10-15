@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vit\.gradle\caches\modules-2\files-2.1\com.github.mishiranu\dashchan.static\1.0\5fb22a20f6252d322c74cf2b532a3cdfec3ecbe3\dashchan.static-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fb22a20f6252d322c74cf2b532a3cdfec3ecbe3">
+        <dex dex="C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\build\intermediates\pre-dexed\debug\dashchan.static-1.0_f91f655792a662dee80b5d75251bbcd37350e459.jar" />
+    </item>
+
+</items>

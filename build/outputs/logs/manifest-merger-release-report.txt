@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:3:2-47
+	android:versionName
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml
+		INJECTED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml
+		INJECTED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:7:2-71
+	android:targetSdkVersion
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:7:39-68
+	android:minSdkVersion
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:7:12-38
+uses-feature#chan.extension
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:9:2-48
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:9:16-45
+application
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:11:2-39:16
+	android:label
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:11:80-117
+	android:allowBackup
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:11:52-79
+	android:icon
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:11:15-51
+meta-data#chan.extension.name
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:13:3-75
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:13:49-72
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:13:14-48
+meta-data#chan.extension.version
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:14:3-72
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:14:52-69
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:14:14-51
+meta-data#chan.extension.icon
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:15:3-104
+	android:resource
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:15:49-101
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:15:14-48
+meta-data#chan.extension.source
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:16:3-140
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:16:51-137
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:16:14-50
+meta-data#chan.extension.class.configuration
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:17:3-108
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:17:64-105
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:17:14-63
+meta-data#chan.extension.class.performer
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:18:3-100
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:18:60-97
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:18:14-59
+meta-data#chan.extension.class.locator
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:19:3-96
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:19:58-93
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:19:14-57
+meta-data#chan.extension.class.markup
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:20:3-94
+	android:value
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:20:57-91
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:20:14-56
+activity#chan.app.UriHandlerActivity
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:22:3-37:14
+	android:label
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:22:56-98
+	android:theme
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:23:7-53
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:22:13-55
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:25:4-35:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:26:5-57
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:26:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:27:15-62
+action#android.intent.action.VIEW
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:28:5-57
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:28:13-54
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:29:5-64
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:29:15-61
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:30:15-63
+data
+ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:31:5-35
+	android:scheme
+		ADDED from C:\Users\vit\Desktop\Dashchan-Extensions-ponychan\AndroidManifest.xml:31:11-32

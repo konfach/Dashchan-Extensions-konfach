@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Oct 15 17:18:37 MSK 2016
+1.base=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\ic_custom_konfach_white.xml
+0.file=C\:\\Users\\vit\\Desktop\\Dashchan-Extensions-ponychan\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
